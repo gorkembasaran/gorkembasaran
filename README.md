@@ -6,12 +6,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorkembasaran&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkembasaran&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
-
+![Görkem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkembasaran&show_icons=true&theme=tokyonight&count_private=true)
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -30,7 +29,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/gorkembasaran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gorkembasaran1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.gg/your_invite_link"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/your_id"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
 </p>
