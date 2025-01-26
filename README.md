@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Gorkem 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931A&center=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
@@ -12,8 +11,6 @@
 </p>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -32,22 +29,8 @@
 
 ---
 
-<h3 align="center">🌍 Connect with me</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/gorkembasaran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.gg/your_invite_link"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/your_id"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
-</p>
-
----
-
-<h3 align="center">🐍 Commit Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/gorkembasaran/gorkembasaran/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gorkembasaran&color=brightgreen" alt="Profile Views" />
 </p>
