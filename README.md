@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/gorkembasaran/gorkembasaran/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://gorkembasaran.github.io/gorkembasaran/github-contribution-grid-snake.svg" />
 </p>
