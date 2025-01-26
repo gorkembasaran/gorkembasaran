@@ -32,9 +32,3 @@
   <a href="https://discord.gg/your_invite_link"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/your_id"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://gorkembasaran.github.io/gorkembasaran/github-contribution-grid-snake.svg" />
-</p>
