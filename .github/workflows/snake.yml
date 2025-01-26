@@ -1,0 +1,20 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gün gece çalıştır
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: gorkembasaran
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-artifact
+          path: dist
